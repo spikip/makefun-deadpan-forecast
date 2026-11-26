@@ -6,18 +6,21 @@
 
 ## About this entry
 
-The forecast is for New Brisket, a city that does not exist, and
-it is written the way a real meteorologist would read it off the
-map: tomorrow, highs, lows, and a percentage chance, all in plain
-confident language. The numbers do the work of making the place
-feel real, a high of 41 and a low of minus 12 in the same day, a
-swing no real city would survive. The joke is deadpan rather than
-loud: the weather is impossible and the twist is that the residents
-pretend this is normal, a small human detail that sells the whole
-absurdity. The line uses its characters tightly, no padding, and
-stays inside the one hundred and sixty character cap. The program
-holds the forecast, checks it against that cap, and writes it to
-/output/entry.txt exactly as the bounty requires.
+The forecast is for New Brisket, a city that does not exist, and it is
+delivered the way a real meteorologist would read it off the map:
+tomorrow, a high, a low, and a percentage chance, all in plain,
+confident language with no wink at the audience. The numbers do the
+work of making the invented place feel real — a high of 41 and a low
+of minus 12 on the same day, a swing no real city would survive, yet
+reported as if it were routine. The joke stays deadpan rather than
+loud: the weather is impossible, and the twist is that the residents
+pretend this is normal. That small, believable human detail is what
+sells the absurdity — the forecast is funny because the people in it
+refuse to notice anything wrong. The line is one sentence, tightly
+written with no padding, and it sits at 113 of the allowed 160
+characters. The program holds the forecast, checks it against the
+cap, and writes it to `/output/entry.txt` exactly as the bounty
+requires.
 
 ## Run it
 
